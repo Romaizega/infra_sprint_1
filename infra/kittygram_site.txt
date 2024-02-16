@@ -1,0 +1,5 @@
+IP: 84.252.137.216;
+name_taski: https://testromazega.ddns.net/;
+name_kittygram: https://superrkitigramm.myddns.me/;
+login: admin;
+password: admin;
